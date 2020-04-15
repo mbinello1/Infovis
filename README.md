@@ -14,4 +14,4 @@
 [AVG work hours since legal working age per country](https://public.tableau.com/profile/matias.binello#!/vizhome/WW14_15861907954070/Dashboard1?publish=yes)
 
 ## MakeoverMonday week 15
-[Messi vs Ronaldo? Who's better?](https://public.flourish.studio/story/263028/)
+[Messi vs Ronaldo? Who's better?](https://mbinello1.github.io/Infovis/MessiVSRonaldo.html)
