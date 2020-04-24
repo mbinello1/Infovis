@@ -1,5 +1,5 @@
 ## TP DATOS PERSONALES
-[TIEMPO QUE PASO EN LAS DISTINTAS PARTES DE LA CASA DURANTE LA CUARENTENA](https://infograph.venngage.com/ps/lYm2FukQpIs/tiempo-que-paso-en-las-distintas-partes-de-la-casa-durante-la-cuarentena)
+[TIEMPO QUE PASO EN LAS DISTINTAS PARTES DE LA CASA DURANTE LA CUARENTENA](https://mbinello1.github.io/Infovis/TPPersonal.html)
 
 
 ## MakeoverMonday week 9
