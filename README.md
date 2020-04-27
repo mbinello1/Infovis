@@ -1,5 +1,6 @@
 ## TP DATOS PERSONALES
 [TIEMPO QUE PASO EN LAS DISTINTAS PARTES DE LA CASA DURANTE LA CUARENTENA](https://mbinello1.github.io/Infovis/TPPersonal.html)
+[Link al data set](https://docs.google.com/spreadsheets/d/1cQ7gBaaoXT756zWEGBiFIqms090rgawSOreRl6dI5Bc/edit?usp=sharing)
 
 
 ## MakeoverMonday week 9
