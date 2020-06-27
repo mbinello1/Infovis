@@ -1,0 +1,24 @@
+sexo,rango_etario,residente,n_personas
+F,0 a 19,0,15
+F,0 a 19,1,158
+M,0 a 19,0,13
+M,0 a 19,1,133
+F,20 a 39,0,204
+F,20 a 39,1,1690
+M,20 a 39,0,193
+M,20 a 39,1,1623
+Trans,20 a 39,1,1
+F,40 a 59,0,69
+F,40 a 59,1,693
+M,40 a 59,0,70
+M,40 a 59,1,669
+sin dato,40 a 59,1,1
+F,60 o mas,0,55
+F,60 o mas,1,632
+M,60 o mas,0,34
+M,60 o mas,1,472
+F,sin dato,0,14
+F,sin dato,1,148
+M,sin dato,0,11
+M,sin dato,1,124
+sin dato,sin dato,1,4
